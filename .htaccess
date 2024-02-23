@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "login"
-AuthUserFile "/ryuta/.htpasswd"
-require valid-user
